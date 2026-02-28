@@ -1,0 +1,13 @@
+{
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.accessibleViewPreserveCursorPosition": false,
+    "terminal.integrated.defaultLocation": "view",
+    "terminal.integrated.mouseWheelZoom": true,
+    "terminal.integrated.tabs.location": "left",
+    "terminal.integrated.tabs.hideCondition": "singleTerminal",
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.tabs.enableAnimation": true,
+    "terminal.integrated.tabs.defaultIcon": "terminal",
+    "terminal.integrated.tabs.defaultColor": null,
+    "terminal.integrated.suggest.inlineSuggestion": "alwaysOnTop"
+}
